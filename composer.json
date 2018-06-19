@@ -1,9 +1,9 @@
 {
-    "name": "geohash/geohash",
+    "name": "lun/geohash",
     "type": "library",
     "description": "geohash package",
     "keywords": ["geohash"],
-    "homepage": "http://github.com/Eleme/geohash",
+    "homepage": "https://github.com/lun/geohash",
     "license": "MIT",
     "authors": [
         {
